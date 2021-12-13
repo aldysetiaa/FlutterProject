@@ -7,8 +7,7 @@ Sample APK :
 Tampilan :
 
 ![alt text](https://github.com/aldysetiaa/FlutterProject/blob/main/APK/pic1.png)
-
-![alt text](https://github.com/aldysetiaa/FlutterProject/blob/main/APK/pic2.png)
+ 
 
 Requirement :
 - Flutter SDK 2.8 / Null Safety (latest) 
