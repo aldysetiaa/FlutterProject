@@ -1,13 +1,7 @@
 Pengenalan Project :
 Aplikasi ini untuk tes, dengan API response XML, proses ini dilakukan dengan XML2Json untuk konversi agar API diconsume dengan baik.
-
-Sample APK :
-- Folder APK / [Download](https://github.com/aldysetiaa/FlutterProject/blob/main/APK/)
-
-Tampilan :
-
-![alt text](https://github.com/aldysetiaa/FlutterProject/blob/main/APK/pic1.png)
- 
+- Project ini menggunakan State Management GetX
+- API dari elevenia, kekurangan dari API ini untuk element image tidak tersedia, jadi gambar diambil dari assets local
 
 Requirement :
 - Flutter SDK 2.8 / Null Safety (latest) 
@@ -51,4 +45,12 @@ dan jika sudah berhasil akan muncul file APK yang disimpan pada folder :
 ```
  Built build\app\outputs\flutter-apk\app-release.apk (size).
 ``` 
+Sample APK :
+- Folder APK / [Download](https://github.com/aldysetiaa/FlutterProject/blob/main/APK/)
+
+Tampilan :
+
+![alt text](https://github.com/aldysetiaa/FlutterProject/blob/main/APK/pic1.png)
+ 
+
 Terima kasih
