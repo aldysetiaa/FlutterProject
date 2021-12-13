@@ -51,5 +51,4 @@ dan jika sudah berhasil akan muncul file APK yang disimpan pada folder :
 ```
  Built build\app\outputs\flutter-apk\app-release.apk (size).
 ``` 
-
-catatan : jika error ```homestead using password yes ```, modifikasi file .env bagian database user dan password dan sesuaikan dengan setingan server
+Terima kasih
